@@ -27,7 +27,7 @@ model = joblib.load('./model9.pkl')
 
 
 
-vectorizer = joblib.load('https://github.com/stoozman/subtitles/blob/af40ca334841d6ede087c90c0f6531142d3ff4d3/vectorizer2.pkl?raw=true')
+vectorizer = joblib.load('./vectorizer2.pkl')
 
 
 

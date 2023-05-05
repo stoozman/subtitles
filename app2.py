@@ -23,7 +23,7 @@ from scipy.sparse import hstack
 from sklearn.svm import SVC
 import joblib
 # Загрузка модели
-model = joblib.load(r'C:\Users\user\model9.pkl')
+model = joblib.load('./model9.pkl')
 
 
 

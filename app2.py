@@ -8,7 +8,8 @@
 
 
 # In[1]:
-
+import nltk 
+nltk.download('punkt')
 
 import streamlit as st
 import pandas as pd

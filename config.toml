@@ -1,0 +1,8 @@
+ [server]
+      headless = true
+      port = $PORT
+      enableCORS = false
+
+      [git]
+      url = "https://https://github.com/stoozman/subtitles"
+      branch = "master"
